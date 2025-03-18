@@ -3,7 +3,7 @@ Mechanical Engineering Student at Federal University of São João del-Rei ⚙�
 
 ## ✌Little Bit More About Me
 - 👨 22 years old
-- 🧑🏻‍💻 Great interest in technology and innovation
+- 🧑‍💻 Great interest in technology and innovation
 - 🐍 Currently learning Python for Data Sciense and Machine Learning
 ## Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
